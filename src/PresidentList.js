@@ -51,7 +51,7 @@ const PresidentList = props => {
 	return(
 		<div className="ui raised padded container segment">
 			<h2>{props.list}</h2>
-			<div className="ui six column grid">
+			<div className="ui four column grid">
 				{presidents}
 			</div>
 
