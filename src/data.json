@@ -530,5 +530,17 @@
 				"end": null
 			}
 		]
+	},
+	{
+		"name": "Joe Biden",
+		"photo": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Joe_Biden_official_portrait_2013.jpg",
+		"born" : "1942-11-20",
+		"died" : null,
+		"years": [
+			{
+				"start": "2021-01-20",
+				"end": null
+			}
+		]
 	}
 ]
